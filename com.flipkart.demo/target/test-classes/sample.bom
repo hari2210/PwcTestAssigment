@@ -1,0 +1,12 @@
+brooklyn.catalog:
+  id: com.qa.flipkart.com.flipkart.demo.MySampleInCatalog
+  version: "1.0"
+  itemType: template
+  description: My Sample
+  displayName: MySample
+  iconUrl: classpath:///sample-icon.png
+  libraries:
+  - file:///Path/to/archetype/sample/target/com.flipkart.demo-0.0.1-SNAPSHOT.jar
+  item:
+    services:
+    - type: com.qa.flipkart.com.flipkart.demo.MySample

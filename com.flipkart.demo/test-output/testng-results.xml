@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-14T13:48:09Z" name="Default suite" finished-at="2022-04-14T13:48:40Z" duration-ms="31690">
+    <groups>
+    </groups>
+    <test started-at="2022-04-14T13:48:09Z" name="Default test" finished-at="2022-04-14T13:48:40Z" duration-ms="31690">
+      <class name="com.flipkart.test.HomePageMobileTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.flipkart.test.HomePageMobileTest@229c6181]" started-at="2022-04-14T19:18:09Z" name="setUp" finished-at="2022-04-14T19:18:24Z" duration-ms="15087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SearchMobile()[pri:0, instance:com.flipkart.test.HomePageMobileTest@229c6181]" started-at="2022-04-14T19:18:24Z" name="SearchMobile" finished-at="2022-04-14T19:18:40Z" duration-ms="15922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchMobile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flipkart.test.HomePageMobileTest@229c6181]" started-at="2022-04-14T19:18:40Z" name="tearDown" finished-at="2022-04-14T19:18:40Z" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.flipkart.test.HomePageMobileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
